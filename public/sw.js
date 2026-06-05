@@ -1,4 +1,4 @@
-const CACHE = 'xiaozhangben-v1';
+const CACHE = 'xiaozhangben-v2';
 const ASSETS = ['/', '/index.html'];
 
 self.addEventListener('install', e => {
